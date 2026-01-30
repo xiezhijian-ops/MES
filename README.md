@@ -2,38 +2,6 @@
 
 MES_WPF是一个基于WPF开发的现代化制造执行系统(Manufacturing Execution System)，旨在帮助制造企业实现生产过程的数字化、可视化管理。
 
-## 项目概述
-
-本系统采用MVVM（Model-View-ViewModel）架构模式开发，使用了MaterialDesign设计风格，提供了直观、美观的用户界面，帮助用户高效管理生产过程。
-
-模仿Element-Plus的界面生成的WPF,由于这是我的初次尝试WPF，之前一直是使用Winform,整体代码还是存在很多问题，
-
-
-
-首页
-
-![image-20250716214121384](./assets/image-20250716214121384.png)
-
-用户管理，大部分管理模块都是按照此页面的样式去设计
-
-![image-20250716214158228](./assets/image-20250716214158228.png)
-
-新增/修改的弹窗样式
-
-![image-20250716214230210](./assets/image-20250716214230210.png)
-
-
-
-权限管理
-
-![image-20250716214244114](./assets/image-20250716214244114.png)
-
-
-
-数据字典
-
-![image-20250716214301802](./assets/image-20250716214301802.png)
-
 
 
 ## 主要功能
@@ -89,12 +57,5 @@ MES_WPF是一个基于WPF开发的现代化制造执行系统(Manufacturing Exec
 
 
 
-## 许可证
 
-[MIT](LICENSE)
 
-## 联系方式
-
-如有任何问题或建议，请通过以下方式联系我们：
-- 项目主页：[https://github.com/baitianbt/MES_WPF]
-- 电子邮件：[1749492810@qq.com]
